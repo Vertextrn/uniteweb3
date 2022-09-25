@@ -703,7 +703,7 @@ body {
  * responsive for larger than 575px screen
  */
 
-@media (min-width: 585px) {
+@media (min-width: 600px) {
 
   /**
    * REUSED STYLE, FOOTER
@@ -722,7 +722,7 @@ body {
  * responsive for larger than 768px screen
  */
 
-@media (min-width: 786px) {
+@media (min-width: 800px) {
 
   /**
    * CUSTOM PROPERTY
@@ -761,7 +761,7 @@ body {
     align-items: center;
   }
 
-  .hero-title { max-width: 650px; }
+  .hero-title { max-width: 660px; }
 
 }
 
@@ -773,7 +773,7 @@ body {
  * responsive for larger than 992px screen
  */
 
-@media (min-width: 992px) {
+@media (min-width: 1000px) {
 
   /**
    * REUSED STYLE
