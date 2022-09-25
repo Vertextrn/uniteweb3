@@ -703,7 +703,7 @@ body {
  * responsive for larger than 575px screen
  */
 
-@media (min-width: 575px) {
+@media (min-width: 585px) {
 
   /**
    * REUSED STYLE, FOOTER
@@ -722,7 +722,7 @@ body {
  * responsive for larger than 768px screen
  */
 
-@media (min-width: 768px) {
+@media (min-width: 770px) {
 
   /**
    * CUSTOM PROPERTY
